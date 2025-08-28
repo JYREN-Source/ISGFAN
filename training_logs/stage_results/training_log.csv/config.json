@@ -1,0 +1,13 @@
+{
+  "loss_types": [
+    "loss_main",
+    "loss_diff_source",
+    "loss_label_inv",
+    "loss_global_dom",
+    "loss_recon",
+    "loss_local_dom",
+    "loss_total"
+  ],
+  "accuracy_types": [],
+  "iterations": 1300
+}
